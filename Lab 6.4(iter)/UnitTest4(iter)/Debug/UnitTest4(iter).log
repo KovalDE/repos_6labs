@@ -1,0 +1,6 @@
+﻿  UnitTest4(iter).cpp
+W:\Labs AP\Lab 6.4(iter)\Lab 6.4\Lab 6.4.cpp(62,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+W:\Labs AP\Lab 6.4(iter)\Lab 6.4\Lab 6.4.cpp(63,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+W:\Labs AP\Lab 6.4(iter)\Lab 6.4\Lab 6.4.cpp(67,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+W:\Labs AP\Lab 6.4(iter)\Lab 6.4\Lab 6.4.cpp(68,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  UnitTest4(iter).vcxproj -> W:\Labs AP\Lab 6.4(iter)\Debug\UnitTest4(iter).dll
