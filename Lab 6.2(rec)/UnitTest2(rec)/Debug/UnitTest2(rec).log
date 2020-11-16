@@ -1,0 +1,3 @@
+﻿  UnitTest2(rec).cpp
+W:\Labs AP\Lab 6.2(rec)\Lab 6.2(rec)\Lab 6.2(rec).cpp(25): warning C4715: SumPar: значение возвращается не при всех путях выполнения
+  UnitTest2(rec).vcxproj -> W:\Labs AP\Lab 6.2(rec)\Debug\UnitTest2(rec).dll
