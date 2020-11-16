@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest3(rec).cpp
+W:\Labs AP\Lab 6.3(rec)\Lab 6.3(rec)\Lab 6.3(rec).cpp(27): warning C4715: SumMinus: значение возвращается не при всех путях выполнения
+     Создается библиотека W:\Labs AP\Lab 6.3(rec)\Debug\UnitTest3(rec).lib и объект W:\Labs AP\Lab 6.3(rec)\Debug\UnitTest3(rec).exp
+  UnitTest3(rec).vcxproj -> W:\Labs AP\Lab 6.3(rec)\Debug\UnitTest3(rec).dll
