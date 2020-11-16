@@ -1,0 +1,4 @@
+﻿  Lab 6.4(rec).cpp
+W:\Labs AP\Lab 6.4(rec)\Lab 6.4(rec)\Lab 6.4(rec).cpp(41): warning C4715: Maxi: значение возвращается не при всех путях выполнения
+W:\Labs AP\Lab 6.4(rec)\Lab 6.4(rec)\Lab 6.4(rec).cpp(56): warning C4715: Mini: значение возвращается не при всех путях выполнения
+  Lab 6.4(rec).vcxproj -> W:\Labs AP\Lab 6.4(rec)\Debug\Lab 6.4(rec).exe

@@ -1,0 +1,5 @@
+﻿  UnitTest4(rec).cpp
+W:\Labs AP\Lab 6.4(rec)\Lab 6.4(rec)\Lab 6.4(rec).cpp(41): warning C4715: Maxi: значение возвращается не при всех путях выполнения
+W:\Labs AP\Lab 6.4(rec)\Lab 6.4(rec)\Lab 6.4(rec).cpp(56): warning C4715: Mini: значение возвращается не при всех путях выполнения
+     Создается библиотека W:\Labs AP\Lab 6.4(rec)\Debug\UnitTest4(rec).lib и объект W:\Labs AP\Lab 6.4(rec)\Debug\UnitTest4(rec).exp
+  UnitTest4(rec).vcxproj -> W:\Labs AP\Lab 6.4(rec)\Debug\UnitTest4(rec).dll
