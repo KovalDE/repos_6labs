@@ -1,0 +1,3 @@
+﻿  UnitTest1(iter).cpp
+W:\Labs AP\Lab 6.1(iter)\Lab 6.1(iter)\Lab 6.1(iter).cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  UnitTest1(iter).vcxproj -> W:\Labs AP\Lab 6.1(iter)\Debug\UnitTest1(iter).dll
