@@ -1,0 +1,5 @@
+﻿  Lab 6.1(rec).cpp
+W:\Labs AP\Lab 6.1(rec)\Lab 6.1(rec)\Lab 6.1(rec).cpp(32,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+W:\Labs AP\Lab 6.1(rec)\Lab 6.1(rec)\Lab 6.1(rec).cpp(52): warning C4715: Sum: значение возвращается не при всех путях выполнения
+W:\Labs AP\Lab 6.1(rec)\Lab 6.1(rec)\Lab 6.1(rec).cpp(59): warning C4715: Count: значение возвращается не при всех путях выполнения
+  Lab 6.1(rec).vcxproj -> W:\Labs AP\Lab 6.1(rec)\Debug\Lab 6.1(rec).exe
